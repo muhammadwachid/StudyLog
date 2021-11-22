@@ -1,2 +1,2 @@
 # StudyLog
-Study Log
+This repo contain my compilation of study in data
