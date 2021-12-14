@@ -219,7 +219,7 @@ summary(c(1:5))
 
 ## **Selamat untuk kamu!**
 
-![](https://cdn.dqlab.id/assets/images/content/Selamat%2520untuk%2520Anda.jpg)
+![](https://cdn.dqlab.id/assets/images/content/Selamat%20untuk%20Anda.jpg)
 
 Kamu baru saja mempelajari dasar awal Bahasa Pemrograman R sebagai langkah awal menjadi seorang Data Scientist.\
 \
