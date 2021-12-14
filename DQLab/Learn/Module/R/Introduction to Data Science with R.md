@@ -26,7 +26,7 @@ R sangat popular saat ini karena tiga hal berikut:
 
 ## **Perusahaan mana yang sudah menggunakan R?**
 
-![](https://cdn.dqlab.id/assets/images/content/Perusahaan%2520mana.jpg)
+![](https://cdn.dqlab.id/assets/images/content/Perusahaan%20mana.jpg)
 
 "Tidak ada asap tanpa api", demikian suatu peribahasa yang berarti tidak ada rumor tanpa ada fakta yang menyertainya.
 
