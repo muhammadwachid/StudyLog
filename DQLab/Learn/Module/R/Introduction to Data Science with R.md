@@ -1,28 +1,6 @@
----
-title: "R Notebook"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
-
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*.
-
-```{r}
-plot(cars)
-```
-
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
-
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
-
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
-
 ## **Data Scientist dan R**
 
-![](C:/Users/Muhammad%20Nur%20Wachid/AppData/Local/RStudio/tmp/paste-BA7158FC.png)Halo, selamat datang di kelas perkenalan DQLab yang menandai awal perjalanan kamu sebagai seorang **Data Scientist**!
+![](https://cdn.dqlab.id/assets/images/content/Data%20Science%20dan%20R.jpg)Halo, selamat datang di kelas perkenalan DQLab yang menandai awal perjalanan kamu sebagai seorang **Data Scientist**!
 
 Data Scientist merupakan profesi yang sangat menjanjikan saat ini. Sebagai seorang data scientist tentunya kamu akan bekerja dengan cara merubah data-data yang sebelumnya tidak kelihatan berguna menjadi informasi yang berharga.
 
@@ -34,7 +12,7 @@ Mari kita pelajari lebih dalam mengenai R di dalam modul pembelajaran ini.
 
 ## **Apa dan kenapa R?**
 
-![](C:/Users/Muhammad%20Nur%20Wachid/AppData/Local/RStudio/tmp/paste-41CE4352.png)
+![](https://storage.googleapis.com/dqlab-image/phi/apa_itu_r.png)
 
 **R** adalah nama sebuah bahasa pemrograman sekaligus *software* untuk pengolahan data dan grafik.
 
